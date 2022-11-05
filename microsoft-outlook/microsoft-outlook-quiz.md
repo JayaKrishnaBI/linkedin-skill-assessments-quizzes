@@ -693,3 +693,16 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] DOCX Windows) or DOCM (Mac)
 
 [Reference link](https://www.codetwo.com/admins-blog/export-outlook-contacts/)
+
+#### Q95. When creating color categories for converstions, each category must have a unique____
+
+- [ ] Name
+- [x] Name and Color
+- [ ] Color
+
+#### Q96. What permission level allows you delegates to read, create, change, and delete items that they created, but not items that you creaeted
+
+- [x] Reviewrer
+- [ ] 
+- [ ] 
+- [ ] 
